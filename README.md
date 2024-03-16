@@ -46,7 +46,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Learned to grab users' input then create a corresponding output text.
 
 ## License
 
